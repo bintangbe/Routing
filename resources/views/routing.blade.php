@@ -52,6 +52,7 @@
             </a>
                                                                                                                                     
         </div>
+        <h6 class="mt-4">Route Groups (Route Prefixes & Route Name Prefixes)</h6>
         <div class="list-group list-group-numbered mt-4">
             <a href="{{ route('admin.dashboard') }}" class="list-group-item list-group-item-action">
                 Admin Dashboard
